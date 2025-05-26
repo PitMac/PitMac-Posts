@@ -1,7 +1,7 @@
 ---
 title: "App de Recetas"
 date: "2024-03-01"
-image: "/images/recetas-app.png"
+image: "https://raw.githubusercontent.com/PitMac/PitMac-Posts/main/images/post-1-cover.png"
 tags: ["React Native", "API", "Firebase"]
 github: "https://github.com/tuusuario/recetas-app"
 demo: "https://recetas-app.vercel.app"
